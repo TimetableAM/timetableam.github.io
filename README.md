@@ -2,7 +2,7 @@
 
 Ժամանակակից, լիաֆունկցիոնալ միաէջ վեբ-հավելված (SPA)՝ դպրոցական դասացուցակներ կազմելու, ավտոմատ գեներացնելու և խմբագրելու համար։
 
-🔗 **GitHub Pages հասցե**՝ [https://wazafab.github.io/timetable.github.io/](https://wazafab.github.io/timetable.github.io/)
+🔗 **GitHub Pages հասցե**՝ [https://timetableam.github.io/](https://timetableam.github.io/)
 
 ---
 
